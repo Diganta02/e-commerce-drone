@@ -12,4 +12,4 @@ js files been added... just need to add scrabbed data from amazon to the file, s
 home page:
 
 
-<img align="left" alt="coding" width="800" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/home.png ">
+<img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/home.png ">
