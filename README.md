@@ -12,9 +12,9 @@ js files been added... just need to add scrabbed data from amazon to the file, s
 <p>home page:</p>
 
 
-<img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/home.png "><br><br>
+<img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/home.png ">
 
 
 <p margin-top="100px">top menu(responsive):</p>
 
-<img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/responsive.png ">
+<img align="left" alt="coding" width="300" padding-top="150px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/responsive.png ">
