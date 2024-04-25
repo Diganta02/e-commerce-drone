@@ -9,12 +9,12 @@ i hope this project will be having some positive impacts on society..
 
 js files been added... just need to add scrabbed data from amazon to the file, so that viewers can directly connects to the products fit their needs..
 
-home page:
+<p>home page:</p>
 
 
 <img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/home.png ">
-<br>
 
-top menu(responsive):
+
+<p margin-top="50px">top menu(responsive):</p>
 
 <img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/responsive.png ">
