@@ -16,4 +16,4 @@ home page:
 
 top menu(responsive):
 
-<img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/responsive.png ">
+<img align="left" alt="coding" width="300" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/responsive.png ">
