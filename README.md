@@ -50,7 +50,7 @@ We welcome contributions from the community! If you have suggestions for new fea
 <br>
 <b margin-top="100px">TOP MENU(responsive):</b>
 <img align="left" alt="coding" width="300" padding-top="150px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/responsive.png ">
-<br>
+<!-- <br>
 <b>HOME PAGE - HERO IMAGE:</b>
 <img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/sample1.png">
 <br>
@@ -64,5 +64,5 @@ We welcome contributions from the community! If you have suggestions for new fea
 <img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/sample4.png">
 <br>
 <b>HOME PAGE - HERO IMAGE:</b>
-<img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/sample5.png">
+<img align="left" alt="coding" width="1000" padding-top="50px" src="https://github.com/Diganta02/e-commerce-drone/blob/main/sample5.png"> -->
 
